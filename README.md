@@ -18,10 +18,6 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=airbornharsh&label=Profile%20views&color=0e75b6&style=flat" alt="airbornharsh" />
-  <img src="https://img.shields.io/github/followers/airbornharsh?label=Followers&style=social" alt="GitHub followers" />
-</p>
 
 ---
 
